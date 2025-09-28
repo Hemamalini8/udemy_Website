@@ -12,6 +12,6 @@ Includes sections like homepage, recommended courses, Most popular courses and F
 
 🔗 How to View  
 You can explore my Udemy clone project by visiting:  
-[Click Here](your-github-pages-link)  
+[Click Here](https://hemamalini8.github.io/udemy_Website/)  
 
 Feel free to explore the content and design! ✨  
