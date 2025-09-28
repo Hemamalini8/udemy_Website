@@ -1,7 +1,7 @@
 # Udemy Clone Website  
 
 A simple clone of the Udemy website built with HTML and CSS.  
-Includes sections like homepage, recommended courses, and popular courses.  
+Includes sections like homepage, recommended courses, Most popular courses and Footer.  
 
 🚀 Pages  
 - Home  
