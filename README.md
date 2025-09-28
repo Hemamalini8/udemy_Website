@@ -1,30 +1,17 @@
-🎓 Udemy Clone Website
+# Udemy Clone Website  
 
-A simple Udemy Clone built using HTML and CSS.
-This project replicates the basic layout and design of the Udemy platform, showcasing courses, banners, and a clean homepage.
+A simple clone of the Udemy website built with HTML and CSS.  
+Includes sections like homepage, recommended courses, and popular courses.  
 
-🚀 Pages
+🚀 Pages  
+- Home  
 
-Home Page (Udemy-style layout)
+🛠️ Technologies  
+- HTML  
+- CSS  
 
-Course Listings Section
+🔗 How to View  
+You can explore my Udemy clone project by visiting:  
+[Click Here](your-github-pages-link)  
 
-Recommended & Popular Courses Section
-
-🛠️ Technologies
-
-HTML5
-
-CSS3
-
-🔗 How to View
-
-Clone the repository:
-
-git clone https://github.com/your-username/udemy-clone.git
-
-👉 Click Here
-
-🎯 Purpose
-
-This project was built to practice HTML & CSS fundamentals by recreating a popular website’s layout.
+Feel free to explore the content and design! ✨  
